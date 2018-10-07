@@ -2,7 +2,9 @@
 
 Aquesta presentació és un exercic de Màster en Educació i TIC (E-Learning) de la Universitat Oberta de Catalunya.
 
-En aquest web mostro quines són les principals característiques del dissenyador tecnopedagògic
+En aquest web mostro quines són les principals característiques del dissenyador tecnopedagògic.
+
+[Visiteu el web aquí]("https://vicesalles.github.io/disseny_tecnopedagogic/")
 
 
 ## Eina
