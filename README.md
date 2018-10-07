@@ -1,6 +1,6 @@
 # Decàleg del dissenyador tecnopedagògic
 
-Aquesta presentació és un exercic de Màster en Educació i TIC (E-Learning) de la Universitat Oberta de Catalunya.
+Aquesta presentació és un exerci de Màster en Educació i TIC (E-Learning) de la Universitat Oberta de Catalunya.
 
 En aquest web mostro quines són les principals característiques del dissenyador tecnopedagògic.
 
