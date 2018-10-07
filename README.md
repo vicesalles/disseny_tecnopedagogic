@@ -4,14 +4,14 @@ Aquesta presentació és un exercic de Màster en Educació i TIC (E-Learning) d
 
 En aquest web mostro quines són les principals característiques del dissenyador tecnopedagògic.
 
-[Visiteu el web aquí]("https://vicesalles.github.io/disseny_tecnopedagogic/")
+[Visiteu el web aquí](https://vicesalles.github.io/disseny_tecnopedagogic/)
 
 
 ## Eina
 
 Com requereix la disciplina del disseny tecnopedagògic, he escollit la millor eina possible per crear l'experiència, en aquest cas, divulgativa.
 
-Concretament, he escollit [webslides]("https://webslides.tv/") que és una petita llibreria per crear presentacions o webdocs. Els principals motius pels quals he escollit aquesta eina són:
+Concretament, he escollit [webslides](https://webslides.tv/) que és una petita llibreria per crear presentacions o webdocs. Els principals motius pels quals he escollit aquesta eina són:
 
 + Llibertat de creació absoluta
 + Posicionament web
